@@ -9,7 +9,7 @@
 
 ## 2. Ajax数据传输规范
 
-1. 每个接口必须包含`error_code`和`error_msg`
+1. 每个接口必须包含`err_code`和`err_msg`
 
 ## 3. 教训
 
